@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Teremok Daycare</title>
+    <link>/en/</link>
+    <description>Recent content in Home on Teremok Daycare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Every day is full of activities</title>
+      <link>/en/schedule/schedule/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/en/schedule/schedule/</guid>
+      <description>Morning  7.30 - 8.45 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Gathering of the kids various calm games
+ 8.30 - 9.00 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Breakfast  9.00 - 9.15 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Morning exercise
+ 9.30 - 10.15 &amp;nbsp;&amp;nbsp;&amp;nbsp; First lesson
+ 10.30 - 10.45 &amp;nbsp; Fruit breakfast
+ 11.00 - 11.45 &amp;nbsp; Second lesson
+ 12.00 - 13.00 &amp;nbsp; Outside activity
+ 
+Day  13.00 - 13.30 &amp;nbsp; Lunch
+ 13.30 - 14.00 &amp;nbsp; Prepare for nap</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>/en/gallery/gallery/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/en/gallery/gallery/</guid>
+      <description>.mySlides {display:none}  
+ ❮ Prev Next ❯    var slideIndex = 1; showDivs(slideIndex); function plusDivs(n) { showDivs(slideIndex += n); } function currentDiv(n) { showDivs(slideIndex = n); } function showDivs(n) { var i; var x = document.getElementsByClassName(&#34;mySlides&#34;); var dots = document.getElementsByClassName(&#34;demo&#34;); if (n  x.length) {slideIndex = 1} if (n</description>
+    </item>
+    
+  </channel>
+</rss>
